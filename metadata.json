@@ -1,0 +1,5 @@
+{
+  "name": "Inkwell Blog",
+  "description": "A minimalist blog platform with a rich text editor and dashboard for managing posts. Features include light/dark mode, post creation and editing, and a dashboard for an overview of all content.",
+  "requestFramePermissions": []
+}
